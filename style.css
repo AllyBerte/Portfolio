@@ -1,0 +1,17 @@
+/*
+Theme Name: Alberte Portfolio
+Text Domain: Alberte Portfolio
+Version 1.0
+Description:
+Author: Alberte Schmidt
+*/
+
+.hello {
+    height:50vh;
+    background-color: black;
+    color: white;
+}
+
+.frontpage{
+    color: red;
+}
